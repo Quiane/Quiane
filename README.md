@@ -30,10 +30,10 @@ Meu GitHub será o palco para os **projetos de Backend** que criarei após minha
 ---
 
 ### Conecte-se Comigo:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_LINKEDIN_AQUI)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL_AQUI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/SEU_LINKEDIN_AQUI](https://www.linkedin.com/in/quiane-santiago-programadora/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:quianeana@gmail.com)
 ---
 
 ### Estatísticas do GitHub:
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=nord&hide_title=true&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Quiane&show_icons=true&theme=nord&hide_title=true&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
 *Não esqueça de substituir **SEU_USERNAME** pelo seu nome de usuário do GitHub.*
