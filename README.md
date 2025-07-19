@@ -35,4 +35,4 @@ Meu GitHub será o palco para os **projetos de Backend** que criarei após minha
 ---
 
 ### Estatísticas do GitHub:
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=nord&hide_title=true&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Quiane&show_icons=true&theme=nord&hide_title=true&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
