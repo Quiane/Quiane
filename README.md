@@ -20,7 +20,7 @@
 
 ### Minhas Habilidades (e o que estou aprendendo!):
 [![Minhas Habilidades](https://skillicons.dev/icons?i=aws,figma,html,css,js,nodejs,python,git,github)](https://skillicons.dev)
-*Se precisar de mais ícones, visite [Skill Icons](https://skillicons.dev/).*
+
 
 ---
 
